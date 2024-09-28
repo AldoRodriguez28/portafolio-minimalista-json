@@ -1,0 +1,339 @@
+{
+    "basics": {
+      "name": "Aldo Rodriguez",
+      "label": "Full Stack con mas de 8 años de experiencia como desarrollador web & UX/UI - Product Designer",
+      "image": "https://avatars.githubusercontent.com/u/19652500?s=400&u=1b0b48eb3f579f2e2633356b82123b1feb580681&v=4",
+      "email": "aldodejesusrodriguezronquillo@gmail.com",
+      "phone": "(229) 153-2115",
+      "url": "",
+      "summary": "+8 años como Desarrollador Web. Vivo en Veracruz México. He trabajado en diferentes entornos: desde Diseñar Productos digitales, Desarrollar código de alta calidad y escalabilidad hasta liderando equipos de empresas multinacionales.",
+      "location": {
+        "address": "12 Lago Superior",
+        "postalCode": "91775",
+        "city": "Veracruz",
+        "countryCode": "Mx",
+        "region": "Veracruz"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "aldinho_12",
+        "url": "https://x.com/aldinho_12"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "aldorodriguez-dev",
+        "url": "https://www.linkedin.com/in/aldorodriguez-dev/"
+      },
+      {
+        "network": "GitHub",
+        "username": "AldoRodriguez28",
+        "url": "https://github.com/AldoRodriguez28"
+      }]
+    },
+    "work": [{
+      "name": "Sinergia Corporativa",
+      "position": "Desarrollador Web",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2010-07-01",
+      "summary": "Creación de módulos web en C# y .net",
+      "mode": "Presencial",
+      "highlights": [
+        "Creación de módulos web para sistemas administrativos utilizando tecnologías como SQL, C# y .net"
+      ]
+      
+    },{
+      "name": "Tiburones Rojos de Veracruz",
+      "position": "Web Master",
+      "url": "",
+      "startDate": "2011-10-01",
+      "endDate": "2014-11-01",
+      "summary": "Administración de la pagina oficial de los Tiburones Rojos de Veracruz",
+      "mode": "Presencial",
+      "highlights": [
+        "Actualización de noticias sobre el equipo de futbol en su pagina web, asi como creación de videos con after effects para presentar la alineación del equipo cada semana"
+      ]
+    },{
+      "name": "ADN Digital",
+      "position": "Frontend Web Developer / UX/UI - Product Designer",
+      "url": "https://www.aceleradordigitaldenegocios.com.mx/",
+      "startDate": "2014-12-01",
+      "endDate": "2020-08-01",
+      "summary": "Uso de metodología Design Thinking, Recopilación y análisis de datos de usuario o sistemas para crear productos que satisfagan las necesidades tanto del usuario como de la empresa. Con esa información creo sistemas y patrones de diseño utilizando herramientas como Figma, AdobeXD para probar prototipos y recopilar comentarios y asi mejorar mis propuestas de diseño",
+      "mode": "Presencial",
+      "highlights": [
+        ""
+      ]
+    },{
+      "name": "Peek Softworks",
+      "position": "Senior Frontend Web Developer",
+      "url": "http://peekmexico.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-12-01",
+      "summary": "Implementación de mejoras a sistemas de gestión de nuestros clientes, Líder de el equipo de desarrollo utilizando tecnologías como:JavaScript, NodeJs, ExpressJS, ReactJs, Angular, VueJS, MongoDB",
+      "mode": "Remoto",
+      "highlights": [
+        ""
+      ]
+    },{
+      "name": "Coppel",
+      "position": "Frontend Developer",
+      "url": "https://www.coppel.com/",
+      "startDate": "2022-01-01",
+      "endDate":null,
+      "summary": "Implementación de mejoras al Marketplace de la empresa, asi como nuevas características a la pagina de Detalle de producto (PDP) y Listado de Producto(PLP) utilizando tecnologias como: HTML, CSS, Less, Java, Javascript, SQL,ReactJs, GraphQL, NextJS, PostgresSQL",
+      "mode": "Remoto",
+      "highlights": [
+        "MVP en proyecto de desacople de PDP y PLP"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Instituto Tecnologico de Veracruz",
+      "url": "",
+      "area": "Ingenieria en Sistemas Computacionales",
+      "studyType": "Ingenieria",
+      "startDate": "2006-01-01",
+      "endDate": "2011-01-01",
+      "score": "8.6",
+      "courses": [
+        "Ingenieria en Sistemas Computacionales "
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },{
+        "name": "Java",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo de Software", "Orientado a Objetos"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "Español",
+      "fluency": "Nativo"
+    },{
+      "language": "English",
+      "fluency": "Intermedio"
+    }],
+    "interests": [{
+      "name": "Musica",
+      "keywords": [
+        "Guitarra",
+        "Trova",
+        "Rock",
+        "Pop"
+      ]
+    }],
+    "references": [{
+      "name": "David Galindo",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Portal del Tecnologico de Poza Rica",
+      "isActive": true,
+      "description": "Portal de alumnos de el tecnologico de poza rica donde los alumnos podran inscribirse , revisar sus calificaciones seleccionar sus materias",
+      "highlights": [
+        "C#",
+        "ASP.NET",
+        "HTML",
+        "CSS"
+      ],
+      "url": null,
+      "github": null
+    },{
+      "name": "Bustrack",
+      "isActive": true,
+      "description": "Plataforma para administracion de transporte publico donde el usuario podra revisar cuantas personas han subido y cuantas bajaron cuanto dinero debe traer el chofer del camion asi como su poicionamiento GPS en tiempo real",
+      "highlights": [
+        "NodeJs",
+        "Express",
+        "Angular",
+        "MongoDB",
+        "IoT",
+        "Javascript"
+      ],
+      "url": "",
+      "github": ""
+    },{
+      "name": "Market",
+      "isActive": true,
+      "description": "Backend deasrrollado con Java y Spring para una tienda de productos",
+      "highlights": [
+        "Java",
+        "Sping",
+        "Backend",
+        "Postgres",
+        "Swagger"
+      ],
+      "url": "",
+      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+    },{
+      "name": "Scheduler Management",
+      "isActive": true,
+      "description": "Agenda de citas para negocios Gestiona tus citas focus: PYME",
+      "highlights": [
+        "AngularJs",
+        "NodeJS",
+        "JavaScript",
+        "Material",
+        "Bootstrap"
+      ],
+      "url": "https://test-migestion.adn.com.mx/administrarCitas/200443945",
+      "github": null
+    },{
+      "name": "Aries",
+      "isActive": true,
+      "description": "Sistema de gestion de ventan con procesos personalizados de venta, por ejemplo cambio de cheques verdes de Infonavit",
+      "highlights": [
+        "Vuej",
+        "NodeJS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "url": "",
+      "github": null
+    },{
+      "name": "Marver",
+      "isActive": true,
+      "description": "Agenda de citas para negocios Gestiona tus citas focus: PYME",
+      "highlights": [
+        "AngularJs",
+        "NodeJS",
+        "JavaScript",
+        "Material",
+        "Bootstrap"
+      ],
+      "url": "",
+      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+    },{
+      "name": "Visor de plantillas",
+      "isActive": true,
+      "description": "Diseño basado en Design Thinking donde el usuario puede seleccionar varias propuestras enttre diferentes alternativas",
+      "highlights": [
+        "AngularJs",
+        "NodeJS",
+        "JavaScript",
+        "Material",
+        "Bootstrap"
+      ],
+      "url": "",
+      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+    },{
+      "name": "Wizard form",
+      "isActive": true,
+      "description": "formulario guiado por secciones para una mejor experiencia de usuaario en cuanto error de typo o falta de informacion",
+      "highlights": [
+        "NodeJS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "url": "",
+      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+    }]
+  }
