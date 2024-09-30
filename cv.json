@@ -285,7 +285,7 @@
         "Bootstrap"
       ],
       "url": "https://test-migestion.adn.com.mx/administrarCitas/200443945",
-      "github": null
+      "github": "https://github.com/AldoRodriguez28/Agenda_para_pymes/tree/master"
     },{
       "name": "Aries",
       "isActive": true,
@@ -309,10 +309,10 @@
         "Material",
         "Bootstrap"
       ],
-      "url": "",
+      "url": null,
       "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
     },{
-      "name": "Visor de plantillas",
+      "name": "UI Market Wish List",
       "isActive": true,
       "description": "Diseño basado en Design Thinking donde el usuario puede seleccionar varias propuestras enttre diferentes alternativas",
       "highlights": [
@@ -322,8 +322,8 @@
         "Material",
         "Bootstrap"
       ],
-      "url": "",
-      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+      "url": null,
+      "github": "https://github.com/AldoRodriguez28/wish_list_market"
     },{
       "name": "Wizard form",
       "isActive": true,
@@ -333,7 +333,7 @@
         "JavaScript",
         "Bootstrap"
       ],
-      "url": "",
-      "github": "https://github.com/AldoRodriguez28/platzi-market/tree/master"
+      "url": null,
+      "github": "https://github.com/AldoRodriguez28/wizard_animation"
     }]
   }
